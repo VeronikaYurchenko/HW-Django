@@ -1,0 +1,9 @@
+INFO 2023-09-02 22:20:02,150 autoreload 19588 11412  Watching for file changes with StatReloader
+INFO 2023-09-02 22:23:07,773 autoreload 19588 11412  C:\Users\vasil\PycharmProjects\HW_django\HW_django\settings.py changed, reloading.
+INFO 2023-09-02 22:23:08,468 autoreload 6192 16372  Watching for file changes with StatReloader
+WARNING 2023-09-02 22:24:23,098 log 6192 12928  Not Found: /
+WARNING 2023-09-02 22:24:23,098 basehttp 6192 12928  "GET / HTTP/1.1" 404 2167
+WARNING 2023-09-02 22:24:24,832 log 6192 12928  Not Found: /
+WARNING 2023-09-02 22:24:24,832 basehttp 6192 12928  "GET / HTTP/1.1" 404 2167
+WARNING 2023-09-02 22:24:29,650 log 6192 12928  Not Found: /hw01
+WARNING 2023-09-02 22:24:29,650 basehttp 6192 12928  "GET /hw01 HTTP/1.1" 404 2197
